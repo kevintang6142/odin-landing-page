@@ -114,3 +114,24 @@ button {
 .subtext {
     color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 96px 25% 30px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    margin: 0;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: right;
+}
